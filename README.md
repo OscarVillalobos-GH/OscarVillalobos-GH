@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Oscar Villalobos Flores</h1>
 <h3 align="center">FullStack Develop Chile</h3>
 
-- 🔭 I’m currently working on [Agendamiento de Medicos Pacientes](https://github.com/4GeeksAcademy/GeekSur-ltm43)
+- 🔭 I’m currently working on ERP Reports para SAP Business One en SQL - HANA DB
 
-- 🌱 I’m currently learning **C# y Python**
+- 🌱 I’m currently learning working with Python 
 
 - 📫 How to reach me **oscarvillaolobosf@gmail.com**
 
