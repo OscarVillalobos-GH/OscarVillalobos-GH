@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oscar Villalobos Flores</h1>
-<h3 align="center">FullStack Develop Chile</h3>
+<h3 align="center">Consultor SAP Business One - SQL - HANA - Jugando a ser Developer</h3>
 
 - 🔭 I’m currently working on ERP Reports para SAP Business One en SQL - HANA DB
 
